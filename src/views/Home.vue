@@ -1,6 +1,7 @@
 <template>
   <div>
     Home
+    test2分支
   </div>
 </template>
 
