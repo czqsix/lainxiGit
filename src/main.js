@@ -10,6 +10,7 @@ import router from './router'
 import './assets/css/common.css'
 import SimbaPlugin from '@/plugin'
 Vue.use(SimbaPlugin)
+//测试分支啊
 //测试一下啊
 // 改变了1231231
 //123123ddqwd
