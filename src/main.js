@@ -10,6 +10,7 @@ import router from './router'
 import './assets/css/common.css'
 import SimbaPlugin from '@/plugin'
 Vue.use(SimbaPlugin)
+// 改变了
 import 'nprogress/nprogress.css'
 new Vue({
   store,
