@@ -1,6 +1,9 @@
 <template>
   <div>
     <router-view></router-view>
+    <div>
+      wojiao  mfk
+    </div>
   </div>
 </template>
 
@@ -10,6 +13,6 @@ export default {};
 
 <style scoped lang='scss'>
     .main{
-      color: red;//zzzzzz
+      color: red; //zzzzzz
     }
 </style>
