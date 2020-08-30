@@ -9,5 +9,7 @@ export default {};
 </script>
 
 <style scoped lang='scss'>
-    .main{}
+    .main{
+      color: red;//zzzzzz
+    }
 </style>
